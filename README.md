@@ -5,8 +5,9 @@ ios语言全球化，本地化工具
 使用方法：
 1 定义：
 
-//语言跟随系统
-#define ASLocalizedString(key)  [NSString stringWithFormat:@"%@", [[NSBundle mainBundle] localizedStringForKey:(key) value:nil table:@"ASLocalized"]]
+ 
+> 语言跟随系统
+> #define ASLocalizedString(key)  [NSString stringWithFormat:@"%@", [[NSBundle mainBundle] localizedStringForKey:(key) value:nil table:@"ASLocalized"]]
 
 2 增加全球化文件ASLocalized.strings，编写内容
 
