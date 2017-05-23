@@ -35,11 +35,14 @@
     /** 交换方法 */
     method_exchangeImplementations(originalMUIlable, exchangeMUIlable);
     isExchange= true;
+        
+    
     }
 }
 
 
 -(void)Localized_setText:(NSString *)text{
+    self.adjustsFontSizeToFitWidth = true;
     [self Localized_setText:ASLocalizedString(text)];
 }
 - (void)Localized_setTitle:(nullable NSString *)title forState:(UIControlState)state{

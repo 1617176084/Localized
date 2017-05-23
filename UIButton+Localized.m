@@ -35,6 +35,7 @@
        }
 }
 - (void)Localized_setTitle:(nullable NSString *)title forState:(UIControlState)state{
+     self.titleLabel.adjustsFontSizeToFitWidth = true;
     [self Localized_setTitle:ASLocalizedString(title) forState:state];
 }
 - (void)awakeFromNib{
