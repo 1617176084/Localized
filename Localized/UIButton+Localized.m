@@ -7,6 +7,7 @@
 //
 
 #import "UIButton+Localized.h"
+#import <objc/runtime.h>
 
 @implementation   UIButton (Localized)
 
