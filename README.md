@@ -2,6 +2,9 @@
 ios语言全球化，本地化工具
 
 只编辑了ASLocalized.strings文件，没有更改任何代码，就能实现一键语言翻译。
+
+![ASLocalized.strings配置翻译工具](https://itunes.apple.com/us/app/ios%E8%AF%AD%E8%A8%80%E6%9C%AC%E5%9C%B0%E5%8C%96-xcode%E9%85%8D%E7%BD%AE%E8%AF%AD%E8%A8%80%E7%BF%BB%E8%AF%91%E5%9B%BD%E9%99%85%E5%8C%96%E5%8A%A9%E6%89%8B/id1242666554?l=zh&ls=1&mt=8)能轻松帮助你实现本地化翻译工作。
+
 使用方法：
 
 1 定义：
@@ -15,6 +18,8 @@ ios语言全球化，本地化工具
 > 下为效果图：
 
 <img width='300px' src = 'https://github.com/1617176084/Localized/blob/master/Simulator%20Screen%20Shot%202017%E5%B9%B45%E6%9C%8822%E6%97%A5%20%E4%B8%8B%E5%8D%885.49.23.png'>
+
+
 
 # 参考文献：
 1 读取项目中的所有中文，并且将这些中文按照国际化格式写入文件中，可以直接拿来实现国际化 
