@@ -3,7 +3,7 @@ ios语言全球化，本地化工具
 
 只编辑了ASLocalized.strings文件，没有更改任何代码，就能实现一键语言翻译。
 
-[ASLocalized.strings配置翻译工具](https://itunes.apple.com/us/app/ios%E8%AF%AD%E8%A8%80%E6%9C%AC%E5%9C%B0%E5%8C%96-xcode%E9%85%8D%E7%BD%AE%E8%AF%AD%E8%A8%80%E7%BF%BB%E8%AF%91%E5%9B%BD%E9%99%85%E5%8C%96%E5%8A%A9%E6%89%8B/id1242666554?l=zh&ls=1&mt=8)能轻松帮助你实现本地化翻译工作。
+[ASLocalized.strings配置翻译工具](https://itunes.apple.com/cn/app/ios%E8%AF%AD%E8%A8%80%E6%9C%AC%E5%9C%B0%E5%8C%96-%E5%9B%BD%E9%99%85%E5%8C%96-xcode%E8%AF%AD%E8%A8%80%E9%85%8D%E7%BD%AE%E7%BF%BB%E8%AF%91%E5%8A%A9%E6%89%8B/id1242666554?l=en&mt=8)能轻松帮助你实现本地化翻译工作。
 
 使用方法：
 
